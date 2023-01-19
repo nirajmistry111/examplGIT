@@ -1,0 +1,2 @@
+# examplGIT
+learning git basics
